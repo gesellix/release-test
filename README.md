@@ -1,3 +1,3 @@
-# release-test
+# release-drafter test
 
-This is a minor change to test a new release.
+Uses [release-drafter](https://github.com/release-drafter/release-drafter) to draft new releases for merged pull requests.
